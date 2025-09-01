@@ -1,5 +1,7 @@
 cat > README.md << 'EOF'
-# ⚡ Pokémon Type Matchup Explorer  
+# 🎮 Pokémon Type Matchup Explorer  
+
+![Banner](banner.png)  
 
 An interactive React app to explore **Pokémon type effectiveness**.  
 Choose attacker and defender types, visualize battle outcomes, and enjoy a fun **battle mode simulation** with glowing type cards!  
@@ -30,6 +32,7 @@ pokematchup-explorer/
  ├── vite.config.js       # Vite configuration
  ├── eslint.config.js     # ESLint setup
  ├── preview.png          # Project preview image
+ ├── banner.png           # Project banner image
  └── README.md            # Project documentation
 \`\`\`
 
@@ -67,5 +70,5 @@ This project is open-source and available under the **MIT License**.
 EOF
 
 git add README.md && \
-git commit -m "📝 Added polished README with preview and structure" && \
+git commit -m "📝 Updated README with banner and structure" && \
 git push origin main
