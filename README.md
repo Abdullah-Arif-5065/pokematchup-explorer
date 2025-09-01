@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🎮 Pokémon Type Matchup Explorer  
 
 ![Banner](banner.png)  
@@ -64,11 +63,10 @@ npm run dev
 - ⚡ Vite  
 
 ---
+## 👨‍💻 Author
 
+Crafted with focus and creativity by Abdullah Arif
+---
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
-EOF
 
-git add README.md && \
-git commit -m "📝 Updated README with banner and structure" && \
-git push origin main
