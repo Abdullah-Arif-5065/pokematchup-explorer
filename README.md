@@ -40,18 +40,18 @@ pokematchup-explorer/
 ## 🚀 Getting Started  
 
 ### 1️⃣ Clone the repository  
-\`\`\`bash
+\`\`\`
 git clone https://github.com/Abdullah-Arif-5065/pokematchup-explorer.git
 cd pokematchup-explorer
 \`\`\`
 
 ### 2️⃣ Install dependencies  
-\`\`\`bash
+\`\`\`
 npm install
 \`\`\`
 
 ### 3️⃣ Run the development server  
-\`\`\`bash
+\`\`\`
 npm run dev
 \`\`\`
 
@@ -66,7 +66,9 @@ npm run dev
 ## 👨‍💻 Author
 
 Crafted with focus and creativity by Abdullah Arif
+
 ---
+
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
 
